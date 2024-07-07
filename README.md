@@ -1,3 +1,5 @@
+# STABLE RELEASES
+
 ## minecraft_server-1.21.jar
 
 md5
@@ -1131,6 +1133,8 @@ sha1
 sha256
 
 `19285d7d16aee740f5a0584f0d80a4940f273a97f5a3eaf251fc1c6c3f2982d1`
+
+# SNAPSHOTS
 
 ## minecraft_server-1.21-rc1.jar
 
